@@ -1,9 +1,0 @@
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/uninstall.dir
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/iron_mobot_uninstall.dir
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/test.dir
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/edit_cache.dir
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/rebuild_cache.dir
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/list_install_components.dir
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/install.dir
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/install/local.dir
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/build/iron_mobot/CMakeFiles/install/strip.dir

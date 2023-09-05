@@ -1,1 +1,0 @@
-/home/iam_ironman_2003/mobot_ws/src/iron_mobot/launch/robot_state_publisher.launch.py
