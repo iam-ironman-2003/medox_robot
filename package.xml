@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>iron_mobot</name>
+  <name>medox_robot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
   <maintainer email="rmuthukumar203at@gmail.com">iam_ironman_2003</maintainer>
