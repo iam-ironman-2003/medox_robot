@@ -4,7 +4,7 @@
   <name>medox_robot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="rmuthukumar203at@gmail.com">iam_ironman_2003</maintainer>
+  <maintainer email="rmuthukumar203at@gmail.com">iam-ironman-2003</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
