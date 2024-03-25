@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" >
 
-        <gazebo reference="laser_frame">
+        <gazebo reference="lidar_link">
         <material>Gazebo/Black</material>
 
         <sensor name="laser" type="ray">
@@ -26,7 +26,7 @@
                     <argument>~/out:=scan</argument>
                 </ros>
                 <output_type>sensor_msgs/LaserScan</output_type>
-                <frame_name>laser_frame</frame_name>
+                <frame_name>lidar_link</frame_name>
             </plugin>
         </sensor>
     </gazebo>
